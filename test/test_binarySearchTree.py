@@ -1,5 +1,5 @@
 import pytest
-from src.binarySearchTree import BinarySearchTree
+from src.binary_search_tree import BinarySearchTree
 
 def test_binary_search_tree_initialization():
     bst = BinarySearchTree()
