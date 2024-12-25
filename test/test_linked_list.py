@@ -1,5 +1,5 @@
 import pytest
-from src.LinkedList import LinkedList
+from src.linkedList import LinkedList
 
 
 def test_linked_list_initialization():
